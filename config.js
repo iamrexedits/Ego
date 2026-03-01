@@ -15,7 +15,7 @@ module.exports = {
     },
     
     // Database
-    mongoURI: process.env.MONGO_URI || 'mongodb://localhost:27017/discordbot',
+    mongoURI: process.env.MONGO_URI || 'mongodb+srv://codex:codex@cdx-in-1.0idu7ol.mongodb.net/?appName=cdx-in-1',
     
     // Lavalink (Music)
     lavalink: {
