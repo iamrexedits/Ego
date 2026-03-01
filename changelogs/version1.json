@@ -1,1 +1,62 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-03-01",
+  "changes": [
+    {
+      "type": "feature",
+      "description": "Initial bot release with full moderation suite"
+    },
+    {
+      "type": "feature",
+      "description": "Dual command system (Prefix + Slash commands)"
+    },
+    {
+      "type": "feature",
+      "description": "Advanced warning system with database storage"
+    },
+    {
+      "type": "feature",
+      "description": "Server lockdown functionality"
+    },
+    {
+      "type": "feature",
+      "description": "Temporary bans and mutes with auto-expiry"
+    },
+    {
+      "type": "feature",
+      "description": "Mod logs configuration"
+    },
+    {
+      "type": "feature",
+      "description": "No-prefix commands for authorized users"
+    },
+    {
+      "type": "feature",
+      "description": "MongoDB integration for persistent data"
+    },
+    {
+      "type": "feature",
+      "description": "Lavalink music support (placeholder)"
+    },
+    {
+      "type": "improvement",
+      "description": "Comprehensive error handling and logging"
+    },
+    {
+      "type": "improvement",
+      "description": "Cooldown system to prevent spam"
+    }
+  ],
+  "knownIssues": [
+    "Lavalink requires separate server setup",
+    "Large purge operations may hit rate limits"
+  ],
+  "upcomingFeatures": [
+    "Automoderation system",
+    "Ticket system",
+    "Leveling system",
+    "Economy system",
+    "Music player controls"
+  ]
+}
 
