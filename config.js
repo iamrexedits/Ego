@@ -2,10 +2,10 @@ module.exports = {
     // Bot Info
     name: 'Ego',
     version: '1.0.0',
-    owners: ['YOUR_USER_ID'],
+    owners: ['1181137505505001544'],
     
     // Default Settings
-    defaultPrefix: '!',
+    defaultPrefix: 'E!',
     defaultColor: 0x5865F2,
     embedColor: {
         success: 0x57F287,
@@ -42,7 +42,7 @@ module.exports = {
         slashCommands: true,
         noPrefixCommands: true,
         database: true,
-        music: true
+        music: false
     }
 };
   
